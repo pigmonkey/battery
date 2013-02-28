@@ -29,11 +29,12 @@ Eneloop AA batteries have a listed capacity (C) of 2000 mAh. Eneloop AAA
 batteries have a listed capacity (C) of 800 mAh.
 
 Maha / PowerEx recommends charging batteries at 0.5C and discharging at 0.25C.
-I've stuck with these rates so far.
+I've begun to charge AA batteries at 0.3C which seems to result in a higher
+capacity with no ill effects.
 
 ### AA
 
-Charge:     1000 mA Discharge:  500 mA
+Charge:     600 mA Discharge:  500 mA
 
 ### AAA
 
